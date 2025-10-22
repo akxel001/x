@@ -1,0 +1,12 @@
+#EXTM3U
+#EXTINF:-1 group-title="General" ch-number="1",Channel 1
+https://www.googleapis.com/drive/v3/files/1YO0F3en_n5mOVDGSgebEVcO6E2ZV6hqs?alt=media&key=AIzaSyD1wmV_0qn5cH6tjp3C5kZAgV2H2b02Mg4
+
+
+
+
+#EXTM3U
+#EXTINF:-1 group-title="General" ch-number="1",Channel 2
+https://www.googleapis.com/drive/v3/files/1YO0F3en_n5mOVDGSgebEVcO6E2ZV6hqs?alt=media&key=AIzaSyD1wmV_0qn5cH6tjp3C5kZAgV2H2b02Mg4
+
+
